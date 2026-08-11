@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #e0335f #140a0f;
+  }
+  ::-webkit-scrollbar { width: 8px; height: 8px; }
+  ::-webkit-scrollbar-track { background: #0b0508; }
+  ::-webkit-scrollbar-thumb { background: #e0335f; border-radius: 8px; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    @apply bg-void text-cream font-body;
+    background:
+      radial-gradient(ellipse 80% 60% at 50% -10%, rgba(224,51,95,0.18), transparent 60%),
+      radial-gradient(ellipse 60% 50% at 90% 110%, rgba(245,192,74,0.08), transparent 60%),
+      #0b0508;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  ::selection {
+    background: #e0335f;
+    color: #fff5f2;
+  }
+
+  :focus-visible {
+    outline: 2px solid #ff6b8a;
+    outline-offset: 3px;
+  }
+}
+
+@layer components {
+  .glass {
+    @apply backdrop-blur-xl bg-white/[0.06] border border-white/10;
+  }
+
+  .glass-card {
+    @apply glass rounded-2xl shadow-card;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-rose to-crimson px-8 py-3.5
+      font-body font-semibold text-cream shadow-glow transition-transform duration-300
+      hover:scale-105 active:scale-95;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center gap-2 rounded-full glass px-8 py-3.5 font-body font-semibold
+      text-cream transition-all duration-300 hover:bg-white/[0.12] hover:scale-105 active:scale-95;
+  }
+
+  .eyebrow {
+    @apply text-xs font-semibold uppercase tracking-[0.35em] text-blush/80;
+  }
+
+  .heading-display {
+    @apply font-display font-bold text-cream;
+  }
+
+  .shimmer-text {
+    background: linear-gradient(90deg, #fff5f2 0%, #ffd7de 25%, #f5c04a 50%, #ffd7de 75%, #fff5f2 100%);
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: shimmer 4s linear infinite;
+  }
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar { display: none; }
+  .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+}

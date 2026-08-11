@@ -1,0 +1,254 @@
+[
+  {
+    "id": "first-moments",
+    "title": "Game Memories",
+    "emoji": "❤️",
+    "items": [
+      {
+        "id": "fm-1",
+        "caption": "Magandang binibini",
+        "description": "Ang ganda ng pasahero ko no girlfriend ko na yan sya ngayon, i mean yung nagamit ng acc nayan yung girlfriend ko",
+        "image": "/images/memories/Games/games1.jpg",
+        "episode":"ep1"
+      },
+      {
+        "id": "fm-2",
+        "caption": "Lang lang",
+        "description": "Ang cute natin dito lovee, dito ko unang narinig yung lang lang and i thought na cute yung tawag mo sa akin, and i love it, pero i love you more",
+        "image": "/images/memories/Games/games2.jpg",
+        "episode":"ep1"
+      },
+      {
+        "id": "fm-3",
+        "caption": "Zombie apocalypse with your siblings",
+        "description": "Tbh akala ko di ako kasama dito tas naririnig ko nalang pangalan ko sa kapatid mo wahahahaha kasama pala ako sa picture ",
+        "image": "/images/memories/Games/games3.jpg",
+        "episode":"ep1"
+      },
+      {
+        "id": "fm-4",
+        "caption": "Cuteeeeeeee",
+        "description": "Para bang Mhie and Dhie ang tawagan eh",
+        "image": "/images/memories/Games/games4.jpg",
+        "episode":"ep1"
+      },
+      {
+        "id": "fm-5",
+        "caption": "Gagamgirl",
+        "description": "Ang ganda namang gagamba neto, ang cute mo dito lovee",
+        "image": "/images/memories/Games/games5.jpg",
+        "episode":"ep1"
+      },
+      {
+        "id": "fm-6",
+        "caption": "Hiking",
+        "description": "Yesss after all this time nakapag hike din ulet tayo together huling ganyan natin nsa break up stage tayo eh during new year or birthday mo ata yun",
+        "image": "/images/memories/Games/games6.jpg",
+        "episode":"ep1"
+      },
+      {
+        "id": "fm-7",
+        "caption": "Girlfriend ko na yan",
+        "description": "GUYSSSSSS ANG CUTEEE NG AVATAR NG GIRLFRIENDD KO OHHHHHH MY GOSH ANG CUTE NG GIRLFRIEND KO NA YANNNNNN",
+        "image": "/images/memories/Games/games7.jpg",
+        "episode":"ep1"
+      },
+      {
+        "id": "fm-8",
+        "caption": "Sweet Video",
+        "description": "This what make that game memorable to me wahahahah prang mhie at dhie talaga ang tawagan eh",
+        "image": "/images/memories/Games/games8.mp4",
+        "episode":"ep1"
+      }
+    ]
+  },
+  {
+    "id": "cute-pictures",
+    "title": "Movie Marathon",
+    "emoji": "🎬",
+    "items": [
+      {
+        "id": "cp-1",
+        "caption": "Project Hail Mary",
+        "description": "Trust me. It's not a gene. You just need to find someone to be brave for. Which is true kase naging handa akong gawin yung mga bagay na kinakatakutan ko noon",
+        "image": "/images/memories/Movies/movienight1.png",
+        "episode": "ep1"
+      },
+      {
+        "id": "cp-2",
+        "caption": "My Neighbor Totoro",
+        "description": "Everybody, try laughing. Then whatever scares you will go away! A relationship feels safer when you're with someone who helps you face your fears.",
+        "image": "/images/memories/Movies/movienight2.png",
+        "episode": "ep1"
+      },
+      {
+        "id": "cp-3",
+        "caption": "Swapped",
+        "description": "Home isn't where you were born. It's where your heart chooses to stay. Minsan, ang tunay na home ay isang tao o lugar kung saan ka komportable, masaya, at at peace. And that place was YOU!!!",
+        "image": "/images/memories/Movies/movienight3.png",
+        "episode": "ep1"
+      },
+      {
+        "id": "cp-4",
+        "caption": "Isang Daang Tula Para Kay Stella",
+        "description": "Some people become poems because they're impossible to forget. Like you and me. You are my poem, my favorite story, and my forever memory.",
+        "image": "/images/memories/Movies/movienight4.png",
+        "episode": "ep1"
+      },
+      {
+        "id": "cp-5",
+        "caption": "Obsession",
+        "description": "Love isn't something you can wish for. It's something you earn. And I feel like I've earned your love, and I will never take it for granted. I will always cherish you and our love. Siguro ginayuma mo ako no eme walang nanggayuma dito anything is natural",
+        "image": "/images/memories/Movies/movienight5.png",
+        "episode": "ep1"
+      },
+      {
+        "id": "cp-6",
+        "caption": "Backrooms",
+        "description": "The scariest place isn't the Backrooms. It's a heart with no way back. Mase minsan, mas nakakatakot ang mawalan ng taong mahal mo kaysa maligaw.",
+        "image": "/images/memories/Movies/movienight6.png",
+        "episode": "ep1"
+      },
+      {
+        "id": "cp-7",
+        "caption": "Lalaland",
+        "description": "City of stars, are you shining just for me? Minsan, ang pinakamagandang tanawin ay yung nakikita mo sa mata ng taong mahal mo. And you are my city of stars.",
+        "image": "/images/memories/Movies/movienight7.png",
+        "episode": "ep1"
+      },
+      {
+        "id": "cp-8",
+        "caption": "The Sheep Detectives",
+        "description": "Every clue led me somewhere... but my heart always led me back to you. Minsan, kahit saan ako magpunta, kahit anong gawin ko, ang puso ko ay palaging babalik sayo aking minamahal. And it will always leads me back to you. Sabi nga All roads lead to Rome, but all my roads lead to you.",
+        "image": "/images/memories/Movies/movienight8.png",
+        "episode": "ep1"
+      },
+      {
+        "id": "cp-9",
+        "caption": "Toy Story 5",
+        "description": "No matter how much the world changes, some hearts will always find their way back to each other. Minsan, kahit anong mangyari sa mundo, kahit anong baguhin sa buhay natin, ang puso natin ay palaging babalik sa isa't isa. And I will always find my way back to you.",
+        "image": "/images/memories/Movies/movienight9.png",
+        "episode": "ep1"
+      },
+      {
+        "id": "cp-10",
+        "caption": "Hoppers",
+        "description": "To love someone is to see the world through their eyes.",
+        "image": "/images/memories/Movies/movienight10.png",
+        "episode": "ep1"
+      },
+      {
+        "id": "cp-11",
+        "caption": "Minions Vs Monsters",
+        "description": "Even monsters deserve someone who sees the good in them. And I see the good in you, my love. You are my monster, and I love you for it.",
+        "image": "/images/memories/Movies/movienight11.png",
+        "episode": "ep1"
+      }
+    ]
+  },
+  {
+  "id": "month-2",
+  "title": "Game Memories",
+  "emoji": "🎮",
+  "items": [
+    {
+      "id": "m2-1",
+      "caption": "Animal Hospital",
+      "description": "Ang cuteee ng kasama kong nurse dito ehhh lab na lab ko sya for sureee",
+      "image": "/images/memories/Games/2gm1.jpg",
+      "episode": "ep2"
+    },
+    {
+      "id": "m2-2",
+      "caption": "Expidition Antartica",
+      "description": "Kasama ko syang nag start sa baba pero due to unforseeen circumstances di na sya nakasama sa taas, pero kahit ganun love ko sya for sureee",
+      "image": "/images/memories/Games/2gm2.jpg",
+      "episode": "ep2"
+    },
+    {
+      "id": "m2-3",
+      "caption": "Expidition Antartica",
+      "description": "di ko syaaa kasama mag summitttttt awitt na net yan eh pero sana kasama kita pang habang buhay",
+      "image": "/images/memories/Games/2gm3.jpg",
+      "episode": "ep2"
+    },
+    {
+      "id": "m2-4",
+      "caption": "Ang cuteee ng height difference natin dito",
+      "description": "baby mo talaga ako eh mommyyyyyyy ay whahahahahahahahaahah",
+      "image": "/images/memories/Games/2gm4.jpg",
+      "episode": "ep2"
+    },
+    {
+      "id": "m2-5",
+      "caption": "Supportive Mommy",
+      "description": "Witty talaga dito eh WAHAHAHAHHAHA parang ginagalingan kase nanonood ka eh nooo",
+      "image": "/images/memories/Games/2gm5.jpg",
+      "episode": "ep2"
+    },
+    {
+      "id": "m2-6",
+      "caption": "Ang galing ko dito ako natira eh",
+      "description": "1st time ko mag laro eto wahahahah pero ako ang natiraaa dibaa ang galing ko praise meee mahal kooo",
+      "image": "/images/memories/Games/2gm6.jpg",
+      "episode": "ep2"
+    },
+    {
+      "id": "m2-7",
+      "caption": "Zombie apocalypse",
+      "description": "Spiderman MEME????? WAHAHHAHAHAHAHAHAHA",
+      "image": "/images/memories/Games/2gm7.jpg",
+      "episode": "ep2"
+    },
+    {
+      "id": "m2-8",
+      "caption": "Zombie apocalypse",
+      "description": "Poging rider mukha syang di kamote sa daan eh no mahal kooo",
+      "image": "/images/memories/Games/2gm8.jpg",
+      "episode": "ep2"
+    },
+    {
+      "id": "m2-9",
+      "caption": "Zombie apocalypse",
+      "description": "ang gandaaa ng driveerrr ko guysss ohh i really really lovee herrrrr hehehehehehehe",
+      "image": "/images/memories/Games/2gm9.jpg",
+      "episode": "ep2"
+    }
+  ]
+},
+{
+  "id": "game-memories",
+  "title": "Movie Marathon",
+  "emoji": "🎬",
+  "items": [
+    {
+      "id": "gm-1",
+      "caption": "Minions (2015)",
+      "description": "Love is choosing to stay, even when the adventure gets a little chaotic.",
+      "image": "/images/memories/Movies/2m1.png",
+      "episode": "ep2"
+    },
+    {
+      "id": "gm-2",
+      "caption": "Mr. Peabody & Sherman",
+      "description": "The best kind of love is having someone who believes in you, even when you don't believe in yourself.",
+      "image": "/images/memories/Movies/2m2.png",
+      "episode": "ep2"
+    },
+    {
+      "id": "gm-3",
+      "caption": "Instant Daddy",
+      "description": "Love may come unexpectedly, but staying and choosing each other is what makes it real.",
+      "image": "/images/memories/Movies/2m3.png",
+      "episode": "ep2"
+    },
+    {
+      "id": "gm-4",
+      "caption": "The Croods: A New Age",
+      "description": "We may be different in so many ways, but somehow, you make my world feel complete.",
+      "image": "/images/memories/Movies/2m4.png",
+      "episode": "ep2"
+    }
+  ]
+}
+]
