@@ -55,7 +55,6 @@ Happy 2nd Monthsary, mahal ko.
 Here’s to more chapters, more memories, and more months with you.
 
 I love you, and I’ll keep choosing you. Always.
-.
 
 Still choosing you,
 Knives`,

@@ -71,7 +71,7 @@ export default function App() {
             <MovieSelector
               key="movie-select"
               episodeId={selectedEpisodeId}
-              onSelect={(movie) => {
+              onSelect={(movie: Movie) => { 
                 setSelectedMovie(movie);
                 setStage("movie-info");
               }}
