@@ -32,9 +32,9 @@ Happy monthsary, love. Here's to so many more. 💙
 Forever choosing you,
 Knives`,
 
-  ep2: `My love,
+  ep2: `
 
-Happy 2nd Monthsary, my love. 🤍📖
+Happy 2nd Monthsary, my love.
 
 “In a world full of choices, I’d still find my way back to you.”
 
