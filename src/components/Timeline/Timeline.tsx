@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { useState } from "react";
+import { episodes } from "../../data/episodes";
 import { timelineEvents } from "../../data/timeline";
 import type { TimelineEvent } from "../../data/timeline";
 import MediaImage from "../Shared/MediaImage";
@@ -11,9 +12,14 @@ interface TimelineProps {
   onContinue: () => void;
 }
 
+const episodeNumberById = new Map(episodes.map((e) => [e.id, e.number]));
+
 export default function Timeline({ episodeId, onContinue }: TimelineProps) {
   const [active, setActive] = useState<TimelineEvent | null>(null);
-  const visibleEvents = timelineEvents.filter((ev) => ev.episode === episodeId);
+  const currentNumber = episodeNumberById.get(episodeId) ?? 0;
+  const visibleEvents = timelineEvents.filter(
+    (ev) => (episodeNumberById.get(ev.episode) ?? 0) <= currentNumber
+  );
 
   return (
     <SceneShell eyebrow="Scene 5 — Our Love Story" onContinue={onContinue} wide>
