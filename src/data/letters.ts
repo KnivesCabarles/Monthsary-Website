@@ -58,4 +58,20 @@ I love you, and I’ll keep choosing you. Always.
 
 Still choosing you,
 Knives`,
+
+  ep3: ` Mahal ko,
+
+Happy 3rd monthsary. Alam mo, kahit ilang beses ko nang isulat 'to sa isip ko bago ko talaga i-type, ang hirap pa rin i-summarize ng tatlong buwan sa ilang linya lang. Pero susubukan ko.
+
+Salamat. Simpleng salita lang siya pero ganun ka-deep 'yung nararamdaman ko. Salamat sa pagpasok mo sa buhay ko, kasi hindi mo alam at baka hindi mo pa rin malalaman kahit ilang beses ko pang sabihin kung gaano kadami ang binago mo sa akin. 'Yung mga paraan na ni hindi mo namamalayan, 'yung mga bagay na para sa'yo ay normal na lang, pero para sa akin, malaking bagay. Nagbago 'yung tingin ko sa sarili ko, sa araw-araw, sa future. Mas gusto ko na maging mas mabuting tao dahil sa'yo. Hindi dahil kailangan, kundi dahil gusto ko, para sa'yo, at para rin sa akin.
+
+Sabi nila, three months pa lang. Pero para sa akin, parang naramdaman ko na 'yung tipong "ito na siguro 'yung tama." Hindi perpekto ang lahat, alam ko 'yun, pero perpekto 'yung paraan kung paano tayo nagsusumikap para dito, kahit malayo tayo sa isa't isa.
+
+Sana, mahal ko, ganito na lang tayo forever. Sana hindi na kailangan pang mag-iba pa 'yung nararamdaman ko, kasi ito na 'yung pinakatotoo — na mahal na mahal kita, at gusto kong ibigay lahat ng meron ako sa'yo. Buo akong sa'yo. Hindi lang bahagi, kundi lahat.
+
+At kung tatanungin mo ako kung gaano pa katagal, sasabihin ko: habambuhay. Mas mamahalin pa kita bukas kaysa ngayon, at mas mamahalin pa kita sa susunod na araw kaysa bukas. Ganito ang takbo ng puso ko para sa'yo — palaging pasulong, hindi paatras.
+
+Happy 3rd monthsary, mahal ko. Ikaw pa rin, at ikaw pa rin hanggang sa huli.
+
+Mahal na mahal kita, Knives`
 };

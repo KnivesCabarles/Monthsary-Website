@@ -223,31 +223,87 @@
   "items": [
     {
       "id": "gm-1",
-      "caption": "Minions (2015)",
+      "caption": "Zootopia 2",
       "description": "Love is choosing to stay, even when the adventure gets a little chaotic.",
-      "image": "/images/memories/Movies/2m1.png",
-      "episode": "ep2"
+      "image": "/images/memories/Movies/3m1.png",
+      "episode": "ep3"
     },
     {
       "id": "gm-2",
-      "caption": "Mr. Peabody & Sherman",
+      "caption": "A man called Otto",
       "description": "The best kind of love is having someone who believes in you, even when you don't believe in yourself.",
-      "image": "/images/memories/Movies/2m2.png",
-      "episode": "ep2"
+      "image": "/images/memories/Movies/3m2.png",
+      "episode": "ep3"
     },
     {
       "id": "gm-3",
-      "caption": "Instant Daddy",
-      "description": "Love may come unexpectedly, but staying and choosing each other is what makes it real.",
-      "image": "/images/memories/Movies/2m3.png",
-      "episode": "ep2"
+      "caption": "Dead Poet's Society",
+      "description": "Carpe diem. Seize the day.",
+      "image": "/images/memories/Movies/3m3.png",
+      "episode": "ep3"
     },
     {
       "id": "gm-4",
-      "caption": "The Croods: A New Age",
-      "description": "We may be different in so many ways, but somehow, you make my world feel complete.",
-      "image": "/images/memories/Movies/2m4.png",
-      "episode": "ep2"
+      "caption": "3 Idiots",
+      "description": "Pursue excellence, and success will follow. Instead na habulin mo agad ang success, focus ka muna na gawin nang maayos at ibigay ang best mo. Kapag naging excellent ka sa ginagawa mo, susunod na lang ang success",
+      "image": "/images/memories/Movies/3m4.png",
+      "episode": "ep3"
+    }
+  ]
+},
+{
+  "id": "month-3",
+  "title": "Game Memories",
+  "emoji": "🎮",
+  "items": [
+    {
+      "id": "m2-1",
+      "caption": "Zombie apocalypse",
+      "description": "Wantusawang Road Trip kasama ang misiss koooo",
+      "image": "/images/memories/Games/3g1.png",
+      "episode": "ep3"
+    },
+    {
+      "id": "m2-2",
+      "caption": "Zombie apocalypse",
+      "description": "Roadtrip with my loml",
+      "image": "/images/memories/Games/3g2.png",
+      "episode": "ep3"
+    },
+    {
+      "id": "m2-3",
+      "caption": "Zombie apocalypse",
+      "description": "gandaaa ng driver ko ohhhhh sinundo ako ni mommy galing base ng mga zombie WAHAHAHAHAHHAAHAHAHAH",
+      "image": "/images/memories/Games/3g3.png",
+      "episode": "ep3"
+    },
+    {
+      "id": "m2-4",
+      "caption": "Zombie apocalypse",
+      "description": "may i kiss my bride na ba agad?, syempreeeeeee i doooooooo na father wala ng tanong tanong i do na agad",
+      "image": "/images/memories/Games/3g4.png",
+      "episode": "ep3"
+    },
+    {
+      "id": "m2-5",
+      "caption": "Zombie apocalypse",
+      "description": "Selfieee with my wifeeeee ganda noooo, baka asawa ko yannnn next selfie bago na avatar ko WAHAHAHHAAHAHAHAHAHA",
+      "image": "/images/memories/Games/3g5.png",
+      "episode": "ep3"
+    },
+    {
+      "id": "m2-6",
+      "caption": "Mobile Legends",
+      "description": "naksssssssssssssssssssss ang galing ng mahalllll kooooo nag immo na syaaaa, tagal na nyang goal yan ehhhh congratulations mahal koooooo",
+      "image": "/images/memories/Games/3g6.png",
+      "episode": "ep3"
+    },
+    {
+      "id": "m2-7",
+      "caption": "New Avatar sa RB",
+      "description": "WAHHHHHHHH ANG GANDAAAAA NG DESIGN MO MAHALLLLLLLL heheheheheh but i hope nag stay to sa 160 rb ahhhhh di ka nag top up paaaa",
+      "image": "/images/memories/Games/3g7.mp4",
+      "episode": "ep3"
     }
   ]
 }

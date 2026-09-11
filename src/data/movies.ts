@@ -76,5 +76,38 @@ export const movies: Movie[] = [
     poster: "/images/movies/movie6.png",
     episode: "ep2",
   },
-
+  {
+    id: "m2-4",
+    title: "Taare Zameen Par",
+    duration: "2 Hr 44 Min",
+    genre: "Family, Musical, Drama",
+    tagline: "The sequel we're still writing together.",
+    synopsis:
+      "tells the story of Ishaan, an 8-year-old boy with undiagnosed dyslexia who struggles in school until a compassionate art teacher helps him unlock his potential.",
+    poster: "/images/movies/movie7.png",
+    episode: "ep3",
+  },
+  {
+    id: "m2-5",
+    title: "Call me Mother",
+    duration: "2 Hr",
+    genre: "Family, Comedy, Animation",
+    tagline: "The sequel we're still writing together.",
+    synopsis:
+      "Twinkle, a single queer parent whose dream of legally adopting her foster son Angelo is upended when the boy's biological mother unexpectedly reappears",
+    poster: "/images/movies/movie8.png",
+    episode: "ep3",
+  },
+  {
+    id: "m2-6",
+    title: "Insidious",
+    duration: "1 Hr 43 Min",
+    genre: "Family, Adventure, Animation",
+    tagline: "The sequel we're still writing together.",
+    synopsis:
+      "the Lambert family, whose young son Dalton falls into an unexplained, science-defying coma after encountering a dark entity in their new home's attic.",
+    poster: "/images/movies/movie9.png",
+    episode: "ep3",
+  },
+  
 ];
