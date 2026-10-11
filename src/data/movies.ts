@@ -109,5 +109,38 @@ export const movies: Movie[] = [
     poster: "/images/movies/movie9.png",
     episode: "ep3",
   },
+  {
+    id: "m2-7",
+    title: "It takes a man and woman",
+    duration: "2 Hr 7 Min",
+    genre: "romance, comedy",
+    tagline: "The sequel we're still writing together.",
+    synopsis:
+      " The story follows estranged ex-lovers Miggy Montenegro (played by John Lloyd Cruz) and Laida Magtalas (played by Sarah Geronimo). After breaking up due to infidelity and family hardships, they are forced to work together years later to save Miggy’s struggling publishing company.",
+    poster: "/images/movies/movie10.png",
+    episode: "ep4",
+  },
+  {
+    id: "m2-8",
+    title: "Ice Age 5: Collision Course",
+    duration: "1 Hr 40 Min",
+    genre: "Family, Adventure, Animation",
+    tagline: "The sequel we're still writing together.",
+    synopsis:
+      " follows Scrat the squirrel as he accidentally launches an abandoned alien spaceship into outer space while trying to bury his acorn.",
+    poster: "/images/movies/movie11.png",
+    episode: "ep4",
+  },
+  {
+    id: "m2-9",
+    title: "The forever purge",
+    duration: "1 Hr 43 Min",
+    genre: "Horror, Action, Thriller",
+    tagline: "The sequel we're still writing together.",
+    synopsis:
+      "A lawless group of domestic terrorists who refuse to stop the annual government-sanctioned 12-hour crime spree. Instead, they launch an endless nationwide campaign of murder and chaos meant to cleanse the country.",
+    poster: "/images/movies/movie12.png",
+    episode: "ep4",
+  }
   
 ];

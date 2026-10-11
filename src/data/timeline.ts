@@ -99,4 +99,13 @@ export const timelineEvents: TimelineEvent[] = [
     image: "/images/timeline/rep3.png",
     chapterLabel: "Chapter 3",
   },
+  {
+    id: "chapter-11",
+    episode: "ep2",
+    title: "Fourth Monthsary",
+    date: "Replace with today's date",
+    description: "Four months down, and I'm still choosing you every day.",
+    image: "/images/episodes/rep4.png",
+    chapterLabel: "Chapter 4",
+  }
 ];

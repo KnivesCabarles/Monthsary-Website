@@ -39,5 +39,15 @@ export const episodes: Episode[] = [
       "A little something to celebrate our third monthsary together, and a reminder of how much I love you.",
     background: "/images/timeline/rep3.png",
     available: true,  
+  },
+  {
+    id: "ep4",
+    number: 4,
+    duration: "~10 mins watch",
+    title: "Fourth Monthsary",
+    description:
+      "A little something to celebrate our fourth monthsary together, and a reminder of how much I love you.",
+    background: "/images/episodes/rep4.png",
+    available: true,  
   }
 ];

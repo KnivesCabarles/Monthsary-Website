@@ -9,56 +9,56 @@
         "caption": "Magandang binibini",
         "description": "Ang ganda ng pasahero ko no girlfriend ko na yan sya ngayon, i mean yung nagamit ng acc nayan yung girlfriend ko",
         "image": "/images/memories/Games/games1.jpg",
-        "episode":"ep1"
+        "episode": "ep1"
       },
       {
         "id": "fm-2",
         "caption": "Lang lang",
         "description": "Ang cute natin dito lovee, dito ko unang narinig yung lang lang and i thought na cute yung tawag mo sa akin, and i love it, pero i love you more",
         "image": "/images/memories/Games/games2.jpg",
-        "episode":"ep1"
+        "episode": "ep1"
       },
       {
         "id": "fm-3",
         "caption": "Zombie apocalypse with your siblings",
         "description": "Tbh akala ko di ako kasama dito tas naririnig ko nalang pangalan ko sa kapatid mo wahahahaha kasama pala ako sa picture ",
         "image": "/images/memories/Games/games3.jpg",
-        "episode":"ep1"
+        "episode": "ep1"
       },
       {
         "id": "fm-4",
         "caption": "Cuteeeeeeee",
         "description": "Para bang Mhie and Dhie ang tawagan eh",
         "image": "/images/memories/Games/games4.jpg",
-        "episode":"ep1"
+        "episode": "ep1"
       },
       {
         "id": "fm-5",
         "caption": "Gagamgirl",
         "description": "Ang ganda namang gagamba neto, ang cute mo dito lovee",
         "image": "/images/memories/Games/games5.jpg",
-        "episode":"ep1"
+        "episode": "ep1"
       },
       {
         "id": "fm-6",
         "caption": "Hiking",
         "description": "Yesss after all this time nakapag hike din ulet tayo together huling ganyan natin nsa break up stage tayo eh during new year or birthday mo ata yun",
         "image": "/images/memories/Games/games6.jpg",
-        "episode":"ep1"
+        "episode": "ep1"
       },
       {
         "id": "fm-7",
         "caption": "Girlfriend ko na yan",
         "description": "GUYSSSSSS ANG CUTEEE NG AVATAR NG GIRLFRIENDD KO OHHHHHH MY GOSH ANG CUTE NG GIRLFRIEND KO NA YANNNNNN",
         "image": "/images/memories/Games/games7.jpg",
-        "episode":"ep1"
+        "episode": "ep1"
       },
       {
         "id": "fm-8",
         "caption": "Sweet Video",
         "description": "This what make that game memorable to me wahahahah prang mhie at dhie talaga ang tawagan eh",
         "image": "/images/memories/Games/games8.mp4",
-        "episode":"ep1"
+        "episode": "ep1"
       }
     ]
   },
@@ -147,164 +147,311 @@
     ]
   },
   {
-  "id": "month-2",
-  "title": "Game Memories",
-  "emoji": "🎮",
-  "items": [
-    {
-      "id": "m2-1",
-      "caption": "Animal Hospital",
-      "description": "Ang cuteee ng kasama kong nurse dito ehhh lab na lab ko sya for sureee",
-      "image": "/images/memories/Games/2gm1.jpg",
-      "episode": "ep2"
-    },
-    {
-      "id": "m2-2",
-      "caption": "Expidition Antartica",
-      "description": "Kasama ko syang nag start sa baba pero due to unforseeen circumstances di na sya nakasama sa taas, pero kahit ganun love ko sya for sureee",
-      "image": "/images/memories/Games/2gm2.jpg",
-      "episode": "ep2"
-    },
-    {
-      "id": "m2-3",
-      "caption": "Expidition Antartica",
-      "description": "di ko syaaa kasama mag summitttttt awitt na net yan eh pero sana kasama kita pang habang buhay",
-      "image": "/images/memories/Games/2gm3.jpg",
-      "episode": "ep2"
-    },
-    {
-      "id": "m2-4",
-      "caption": "Ang cuteee ng height difference natin dito",
-      "description": "baby mo talaga ako eh mommyyyyyyy ay whahahahahahahahaahah",
-      "image": "/images/memories/Games/2gm4.jpg",
-      "episode": "ep2"
-    },
-    {
-      "id": "m2-5",
-      "caption": "Supportive Mommy",
-      "description": "Witty talaga dito eh WAHAHAHAHHAHA parang ginagalingan kase nanonood ka eh nooo",
-      "image": "/images/memories/Games/2gm5.mp4",
-      "episode": "ep2"
-    },
-    {
-      "id": "m2-6",
-      "caption": "Ang galing ko dito ako natira eh",
-      "description": "1st time ko mag laro eto wahahahah pero ako ang natiraaa dibaa ang galing ko praise meee mahal kooo",
-      "image": "/images/memories/Games/2gm6.jpg",
-      "episode": "ep2"
-    },
-    {
-      "id": "m2-7",
-      "caption": "Zombie apocalypse",
-      "description": "Spiderman MEME????? WAHAHHAHAHAHAHAHAHA",
-      "image": "/images/memories/Games/2gm7.jpg",
-      "episode": "ep2"
-    },
-    {
-      "id": "m2-8",
-      "caption": "Zombie apocalypse",
-      "description": "Poging rider mukha syang di kamote sa daan eh no mahal kooo",
-      "image": "/images/memories/Games/2gm8.jpg",
-      "episode": "ep2"
-    },
-    {
-      "id": "m2-9",
-      "caption": "Zombie apocalypse",
-      "description": "ang gandaaa ng driveerrr ko guysss ohh i really really lovee herrrrr hehehehehehehe",
-      "image": "/images/memories/Games/2gm9.jpg",
-      "episode": "ep2"
-    }
-  ]
-},
-{
-  "id": "game-memories",
-  "title": "Movie Marathon",
-  "emoji": "🎬",
-  "items": [
-    {
-      "id": "gm-1",
-      "caption": "Zootopia 2",
-      "description": "Love is choosing to stay, even when the adventure gets a little chaotic.",
-      "image": "/images/memories/Movies/3m1.png",
-      "episode": "ep3"
-    },
-    {
-      "id": "gm-2",
-      "caption": "A man called Otto",
-      "description": "The best kind of love is having someone who believes in you, even when you don't believe in yourself.",
-      "image": "/images/memories/Movies/3m2.png",
-      "episode": "ep3"
-    },
-    {
-      "id": "gm-3",
-      "caption": "Dead Poet's Society",
-      "description": "Carpe diem. Seize the day.",
-      "image": "/images/memories/Movies/3m3.png",
-      "episode": "ep3"
-    },
-    {
-      "id": "gm-4",
-      "caption": "3 Idiots",
-      "description": "Pursue excellence, and success will follow. Instead na habulin mo agad ang success, focus ka muna na gawin nang maayos at ibigay ang best mo. Kapag naging excellent ka sa ginagawa mo, susunod na lang ang success",
-      "image": "/images/memories/Movies/3m4.png",
-      "episode": "ep3"
-    }
-  ]
-},
-{
-  "id": "month-3",
-  "title": "Game Memories",
-  "emoji": "🎮",
-  "items": [
-    {
-      "id": "m2-1",
-      "caption": "Zombie apocalypse",
-      "description": "Wantusawang Road Trip kasama ang misiss koooo",
-      "image": "/images/memories/Games/3g1.png",
-      "episode": "ep3"
-    },
-    {
-      "id": "m2-2",
-      "caption": "Zombie apocalypse",
-      "description": "Roadtrip with my loml",
-      "image": "/images/memories/Games/3g2.png",
-      "episode": "ep3"
-    },
-    {
-      "id": "m2-3",
-      "caption": "Zombie apocalypse",
-      "description": "gandaaa ng driver ko ohhhhh sinundo ako ni mommy galing base ng mga zombie WAHAHAHAHAHHAAHAHAHAH",
-      "image": "/images/memories/Games/3g3.png",
-      "episode": "ep3"
-    },
-    {
-      "id": "m2-4",
-      "caption": "Zombie apocalypse",
-      "description": "may i kiss my bride na ba agad?, syempreeeeeee i doooooooo na father wala ng tanong tanong i do na agad",
-      "image": "/images/memories/Games/3g4.png",
-      "episode": "ep3"
-    },
-    {
-      "id": "m2-5",
-      "caption": "Zombie apocalypse",
-      "description": "Selfieee with my wifeeeee ganda noooo, baka asawa ko yannnn next selfie bago na avatar ko WAHAHAHHAAHAHAHAHAHA",
-      "image": "/images/memories/Games/3g5.png",
-      "episode": "ep3"
-    },
-    {
-      "id": "m2-6",
-      "caption": "Mobile Legends",
-      "description": "naksssssssssssssssssssss ang galing ng mahalllll kooooo nag immo na syaaaa, tagal na nyang goal yan ehhhh congratulations mahal koooooo",
-      "image": "/images/memories/Games/3g6.png",
-      "episode": "ep3"
-    },
-    {
-      "id": "m2-7",
-      "caption": "New Avatar sa RB",
-      "description": "WAHHHHHHHH ANG GANDAAAAA NG DESIGN MO MAHALLLLLLLL heheheheheh but i hope nag stay to sa 160 rb ahhhhh di ka nag top up paaaa",
-      "image": "/images/memories/Games/3g7.mp4",
-      "episode": "ep3"
-    }
-  ]
-}
+    "id": "month-2",
+    "title": "Game Memories",
+    "emoji": "🎮",
+    "items": [
+      {
+        "id": "m2-1",
+        "caption": "Animal Hospital",
+        "description": "Ang cuteee ng kasama kong nurse dito ehhh lab na lab ko sya for sureee",
+        "image": "/images/memories/Games/2gm1.jpg",
+        "episode": "ep2"
+      },
+      {
+        "id": "m2-2",
+        "caption": "Expidition Antartica",
+        "description": "Kasama ko syang nag start sa baba pero due to unforseeen circumstances di na sya nakasama sa taas, pero kahit ganun love ko sya for sureee",
+        "image": "/images/memories/Games/2gm2.jpg",
+        "episode": "ep2"
+      },
+      {
+        "id": "m2-3",
+        "caption": "Expidition Antartica",
+        "description": "di ko syaaa kasama mag summitttttt awitt na net yan eh pero sana kasama kita pang habang buhay",
+        "image": "/images/memories/Games/2gm3.jpg",
+        "episode": "ep2"
+      },
+      {
+        "id": "m2-4",
+        "caption": "Ang cuteee ng height difference natin dito",
+        "description": "baby mo talaga ako eh mommyyyyyyy ay whahahahahahahahaahah",
+        "image": "/images/memories/Games/2gm4.jpg",
+        "episode": "ep2"
+      },
+      {
+        "id": "m2-5",
+        "caption": "Supportive Mommy",
+        "description": "Witty talaga dito eh WAHAHAHAHHAHA parang ginagalingan kase nanonood ka eh nooo",
+        "image": "/images/memories/Games/2gm5.mp4",
+        "episode": "ep2"
+      },
+      {
+        "id": "m2-6",
+        "caption": "Ang galing ko dito ako natira eh",
+        "description": "1st time ko mag laro eto wahahahah pero ako ang natiraaa dibaa ang galing ko praise meee mahal kooo",
+        "image": "/images/memories/Games/2gm6.jpg",
+        "episode": "ep2"
+      },
+      {
+        "id": "m2-7",
+        "caption": "Zombie apocalypse",
+        "description": "Spiderman MEME????? WAHAHHAHAHAHAHAHAHA",
+        "image": "/images/memories/Games/2gm7.jpg",
+        "episode": "ep2"
+      },
+      {
+        "id": "m2-8",
+        "caption": "Zombie apocalypse",
+        "description": "Poging rider mukha syang di kamote sa daan eh no mahal kooo",
+        "image": "/images/memories/Games/2gm8.jpg",
+        "episode": "ep2"
+      },
+      {
+        "id": "m2-9",
+        "caption": "Zombie apocalypse",
+        "description": "ang gandaaa ng driveerrr ko guysss ohh i really really lovee herrrrr hehehehehehehe",
+        "image": "/images/memories/Games/2gm9.jpg",
+        "episode": "ep2"
+      }
+    ]
+  },
+  {
+    "id": "game-memories",
+    "title": "Movie Marathon",
+    "emoji": "🎬",
+    "items": [
+      {
+        "id": "gm-1",
+        "caption": "Zootopia 2",
+        "description": "Love is choosing to stay, even when the adventure gets a little chaotic.",
+        "image": "/images/memories/Movies/3m1.png",
+        "episode": "ep3"
+      },
+      {
+        "id": "gm-2",
+        "caption": "A man called Otto",
+        "description": "The best kind of love is having someone who believes in you, even when you don't believe in yourself.",
+        "image": "/images/memories/Movies/3m2.png",
+        "episode": "ep3"
+      },
+      {
+        "id": "gm-3",
+        "caption": "Dead Poet's Society",
+        "description": "Carpe diem. Seize the day.",
+        "image": "/images/memories/Movies/3m3.png",
+        "episode": "ep3"
+      },
+      {
+        "id": "gm-4",
+        "caption": "3 Idiots",
+        "description": "Pursue excellence, and success will follow. Instead na habulin mo agad ang success, focus ka muna na gawin nang maayos at ibigay ang best mo. Kapag naging excellent ka sa ginagawa mo, susunod na lang ang success",
+        "image": "/images/memories/Movies/3m4.png",
+        "episode": "ep3"
+      }
+    ]
+  },
+  {
+    "id": "month-3",
+    "title": "Game Memories",
+    "emoji": "🎮",
+    "items": [
+      {
+        "id": "m3g-1",
+        "caption": "Zombie apocalypse",
+        "description": "Wantusawang Road Trip kasama ang misiss koooo",
+        "image": "/images/memories/Games/3g1.png",
+        "episode": "ep3"
+      },
+      {
+        "id": "m3g-2",
+        "caption": "Zombie apocalypse",
+        "description": "Roadtrip with my loml",
+        "image": "/images/memories/Games/3g2.png",
+        "episode": "ep3"
+      },
+      {
+        "id": "m3g-3",
+        "caption": "Zombie apocalypse",
+        "description": "gandaaa ng driver ko ohhhhh sinundo ako ni mommy galing base ng mga zombie WAHAHAHAHAHHAAHAHAHAH",
+        "image": "/images/memories/Games/3g3.png",
+        "episode": "ep3"
+      },
+      {
+        "id": "m3g-4",
+        "caption": "Zombie apocalypse",
+        "description": "may i kiss my bride na ba agad?, syempreeeeeee i doooooooo na father wala ng tanong tanong i do na agad",
+        "image": "/images/memories/Games/3g4.png",
+        "episode": "ep3"
+      },
+      {
+        "id": "m3g-5",
+        "caption": "Zombie apocalypse",
+        "description": "Selfieee with my wifeeeee ganda noooo, baka asawa ko yannnn next selfie bago na avatar ko WAHAHAHHAAHAHAHAHAHA",
+        "image": "/images/memories/Games/3g5.png",
+        "episode": "ep3"
+      },
+      {
+        "id": "m3g-6",
+        "caption": "Mobile Legends",
+        "description": "naksssssssssssssssssssss ang galing ng mahalllll kooooo nag immo na syaaaa, tagal na nyang goal yan ehhhh congratulations mahal koooooo",
+        "image": "/images/memories/Games/3g6.png",
+        "episode": "ep3"
+      },
+      {
+        "id": "m3g-7",
+        "caption": "New Avatar sa RB",
+        "description": "WAHHHHHHHH ANG GANDAAAAA NG DESIGN MO MAHALLLLLLLL heheheheheh but i hope nag stay to sa 160 rb ahhhhh di ka nag top up paaaa",
+        "image": "/images/memories/Games/3g7.mp4",
+        "episode": "ep3"
+      }
+    ]
+  },
+  {
+    "id": "month-4",
+    "title": "Game Memories",
+    "emoji": "🎮",
+    "items": [
+      {
+        "id": "m4g-1",
+        "caption": "Photo Booth",
+        "description": "YESSSS MADAMMMM BABYYYYY!",
+        "image": "/images/memories/Games/4g.jpg",
+        "episode": "ep4"
+      },
+      {
+        "id": "m4g-2",
+        "caption": "Photo Booth",
+        "description": "RAWRRRRR CUTE NATIN DITO MAHALLL",
+        "image": "/images/memories/Games/4g1.jpg",
+        "episode": "ep4"
+      },
+      {
+        "id": "m4g-3",
+        "caption": "Photo Booth",
+        "description": "RAWRRRRR CUTE NATIN DITO MAHALLL YESSS MAY PHOTO BOOTH NA TAYO SA GAME NGA LANG WHAHAHAHAHAHAHAH",
+        "image": "/images/memories/Games/4g2.jpg",
+        "episode": "ep4"
+      },
+      {
+        "id": "m4g-4",
+        "caption": "Photo Booth",
+        "description": "JOJO POSE whahahahahahah",
+        "image": "/images/memories/Games/4g3.jpg",
+        "episode": "ep4"
+      },
+      {
+        "id": "m4g-5",
+        "caption": "Photo Booth",
+        "description": "AREEE YOUUUU A STAND USER MAHAL?!?!?!?!?!? pero legit ang cuteeen eto fav pic ko natin",
+        "image": "/images/memories/Games/4g4.jpg",
+        "episode": "ep4"
+      },
+      {
+        "id": "m4g-6",
+        "caption": "Photo Booth",
+        "description": "Pakakkkkkkkkkk ang cuteeeeeeeeeeeeeee",
+        "image": "/images/memories/Games/4g5.jpg",
+        "episode": "ep4"
+      },
+      {
+        "id": "m4g-7",
+        "caption": "Photo Booth",
+        "description": "She's Dating a gangster???? wahahahhahaahahhaahhaha",
+        "image": "/images/memories/Games/4g6.jpg",
+        "episode": "ep4"
+      },
+      {
+        "id": "m4g-8",
+        "caption": "Photo Booth",
+        "description": "ACKKKKKKKK ANG CUTEEEEE nakatayo sumandal wahahahahahahahahahahahaha",
+        "image": "/images/memories/Games/4g7.jpg",
+        "episode": "ep4"
+      },
+      {
+        "id": "m4g-9",
+        "caption": "Photo Booth",
+        "description": "ANOTHER FANTASY NA NAGING REALITY NAAAAAAA",
+        "image": "/images/memories/Games/4g8.jpg",
+        "episode": "ep4"
+      },
+      {
+        "id": "m4g-11",
+        "caption": "Untitled",
+        "description": "WAHAHAHAHAHAHAHAH AWAY MAG ASAWA",
+        "image": "/images/memories/Games/4g10.mp4",
+        "episode": "ep4"
+      },
+      {
+        "id": "m4g-12",
+        "caption": "Nakalimutan ko yung game",
+        "description": "Roadtrip with my wifeeeee ganda ng angkas ko ohh kiss dapat bayad neto eh",
+        "image": "/images/memories/Games/4g11.mp4",
+        "episode": "ep4"
+      },
+      {
+        "id": "m4g-13",
+        "caption": "Nakalimutan ko yung game",
+        "description": "Another bike trip with my wifeeeee",
+        "image": "/images/memories/Games/4g12.mp4",
+        "episode": "ep4"
+      },
+      {
+        "id": "m4g-14",
+        "caption": "Nakalimutan ko yung game",
+        "description": "WAHAHAHAHAHAHAHAH ANG CUTEEEEE NATIN DITO MAHAL KO",
+        "image": "/images/memories/Games/4g13.mp4",
+        "episode": "ep4"
+      },
+      {
+        "id": "m4g-15",
+        "caption": "Nakalimutan ko yung game",
+        "description": "ACKKKKKKKKKKKKKKK",
+        "image": "/images/memories/Games/4g14.mp4",
+        "episode": "ep4"
+      },
+      {
+        "id": "m4g-16",
+        "caption": "Nakalimutan ko yung game",
+        "description": "AHHHHHHHHHHHHHHHHHHHHH ANG GANDA TALAGA NG GAMEEEE NATOOOOO HEHEHEHEHEH SA SUSUNOD SANA ULET",
+        "image": "/images/memories/Games/4g15.mp4",
+        "episode": "ep4"
+      }
+    ]
+  },
+  {
+    "id": "month-4-movies",
+    "title": "Movie Marathon",
+    "emoji": "🎬",
+    "items": [
+      {
+        "id": "m4-1",
+        "caption": "Call me Mother",
+        "description": "Anak, ang pag-ibig ay parang Wi-Fi. Minsan malakas ang connection ninyo, minsan mahina, at minsan akala mo connected kayo pero ikaw lang pala ang may access",
+        "image": "/images/memories/Movies/4m1.png",
+        "episode": "ep4"
+      },
+      {
+        "id": "m4-2",
+        "caption": "Manchester by the Sea",
+        "description": "You can forgive yourself for many things, but accepting what happened can be much harder than people realize.",
+        "image": "/images/memories/Movies/4m2.png",
+        "episode": "ep4"
+      },
+      {
+        "id": "m4-3",
+        "caption": "How to lose a guy in 10 days",
+        "description": "",
+        "image": "/images/memories/Movies/4m3.png",
+        "episode": "ep4"
+      },
+      {
+        "id": "m4-4",
+        "caption": "27 Dresses",
+        "description": "",
+        "image": "/images/memories/Movies/4m4.png",
+        "episode": "ep4"
+      }
+    ]
+  }
 ]

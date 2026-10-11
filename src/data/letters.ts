@@ -73,5 +73,24 @@ At kung tatanungin mo ako kung gaano pa katagal, sasabihin ko: habambuhay. Mas m
 
 Happy 3rd monthsary, mahal ko. Ikaw pa rin, at ikaw pa rin hanggang sa huli.
 
-Mahal na mahal kita, Knives`
+Mahal na mahal kita, Knives`,
+
+  ep4: `Mahal ko,
+
+Happy 4th monthsary, mahal ko. 💜
+
+Apat na buwan na pala. Minsan hindi ko pa rin siya maisip, kasi parang kailan lang nagsimula tayo, pero pag tinitingnan ko lahat ng pinagdaanan natin, ang dami na pala talaga nating nalagpasan. May mga araw na madali, may mga araw na mahirap, at may mga pagkakataong pwede na sana tayong sumuko. Pero heto tayo ngayon, magkasama pa rin, at araw-araw pa ring pinipili ang isa’t isa.
+
+Gusto kong sabihin na sobrang, sobrang thankful ako sa’yo. Salamat kasi hindi ka umalis. Salamat kasi kahit hindi ako laging madaling mahalin, nanatili ka. Alam kong hindi madali, lalo na’t magkalayo pa tayo, pero pinili mo pa rin ako. At hindi lang basta nanatili, minahal mo pa ako nang buong-buo.
+
+Hindi mo siguro alam, pero malaking bahagi ka kung bakit gusto kong maging mas mabuting tao. Hindi mo ako pinipilit baguhin, pero sa paraan ng pagmamahal mo, nagkakaroon ako ng gustong abutin. Gusto kong maging mas mabuting lalaki, hindi dahil kailangan, kundi dahil deserve mo ang pinakamabuting bersyon ko. Ikaw ang dahilan kung bakit ako natututong magtiyaga, umintindi, at mas mahalin ka araw-araw.
+
+May sinabi si Shakespeare na tumatak sa’kin: “Love is not love which alters when it alteration finds.” Ganyan ko nakikita ang pagmamahalan natin. Kahit anong dumating, hindi nababago ang pagpili natin sa isa’t isa. Mas lalo pa nga tayong tumitibay.
+
+Kaya sa ika-apat na buwan natin, ito ang pangako ko: patuloy kitang mamahalin, aalagaan, at pipiliin, sa magagandang araw man o sa mahihirap. Hindi ko alam kung ano pa ang dadating, pero ang alam ko, gusto kitang kasama sa lahat ng iyon.
+
+Mahal na mahal kita, ngayon at sa lahat ng mga susunod na monthsary natin. 🌷
+
+Nagmamahal,
+Knives`
 };
