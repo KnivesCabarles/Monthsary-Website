@@ -162,7 +162,7 @@ export const movies: Movie[] = [
     synopsis:
       "A young woman who endures years of cruelty and humiliation at the hands of her wealthy adoptive family after being orphaned. Treated like a servant in her own home, she suffers relentless emotional and physical abuse from the family's matriarch, Ambar, as well as her cruel stepsister, Laras, and the rest of the household.",
     poster: "/images/movies/movie14.png",
-    episode: "ep4",
+    episode: "ep5",
   },
     {
     id: "m2-13",
