@@ -75,7 +75,7 @@ export const timelineEvents: TimelineEvent[] = [
   {
     id: "chapter-8",
     episode: "ep1",
-    title: "Our First Monthsary",
+    title: "July 12 2026",
     date: "Replace with today's date",
     description: "One month down, and I'd choose every single day of it again.",
     image: "/images/timeline/rep1.png",
@@ -84,7 +84,7 @@ export const timelineEvents: TimelineEvent[] = [
   {
     id: "chapter-9",
     episode: "ep2",
-    title: "Second Monthsary",
+    title: "August 12 2026",
     date: "Replace with today's date",
     description: "Two months down, and I'm still choosing you every day.",
     image: "/images/timeline/rep2.png",
@@ -92,20 +92,29 @@ export const timelineEvents: TimelineEvent[] = [
   },
   {
     id: "chapter-10",
-    episode: "ep2",
+    episode: "ep3",
     title: "Third Monthsary",
-    date: "Replace with today's date",
+    date: "September 12 2026",
     description: "Three months down, and I'm still choosing you every day.",
     image: "/images/timeline/rep3.png",
     chapterLabel: "Chapter 3",
   },
   {
     id: "chapter-11",
-    episode: "ep2",
+    episode: "ep4",
     title: "Fourth Monthsary",
-    date: "Replace with today's date",
+    date: "October 12 2026",
     description: "Four months down, and I'm still choosing you every day.",
     image: "/images/episodes/rep4.png",
     chapterLabel: "Chapter 4",
+  },
+  {
+    id: "chapter-12",
+    episode: "ep5",
+    title: "Fifth Monthsary",
+    date: "Nov 12 2026",
+    description: "Fifth months down, and I'm still choosing you every day.",
+    image: "/images/episodes/rep4.png",
+    chapterLabel: "Chapter 5",
   }
 ];

@@ -141,6 +141,39 @@ export const movies: Movie[] = [
       "A lawless group of domestic terrorists who refuse to stop the annual government-sanctioned 12-hour crime spree. Instead, they launch an endless nationwide campaign of murder and chaos meant to cleanse the country.",
     poster: "/images/movies/movie12.png",
     episode: "ep4",
+  },
+  {
+    id: "m2-11",
+    title: "Death Whisperer 2",
+    duration: "1 Hr 52 Min",
+    genre: "Horror, Supernatural, Thriller",
+    tagline: "The sequel we're still writing together.",
+    synopsis:
+      "three years after the tragic death of his younger sister Yam, Death Whisperer 2 (Tee Yod 2) follows older brother Yak (Nadech Kugimiya) as he becomes a relentless ghost hunter determined to avenge her.",
+    poster: "/images/movies/movie13.png",
+    episode: "ep5",
+  },
+  {
+    id: "m2-12",
+    title: "Kitab Sijjin & Illiyyin",
+    duration: "1 Hr 38 Min",
+    genre: "Horror, Violence, Thriller",
+    tagline: "The sequel we're still writing together.",
+    synopsis:
+      "A young woman who endures years of cruelty and humiliation at the hands of her wealthy adoptive family after being orphaned. Treated like a servant in her own home, she suffers relentless emotional and physical abuse from the family's matriarch, Ambar, as well as her cruel stepsister, Laras, and the rest of the household.",
+    poster: "/images/movies/movie14.png",
+    episode: "ep4",
+  },
+    {
+    id: "m2-13",
+    title: "Munkar",
+    duration: "1 Hr 27 Min",
+    genre: "Horror, Thriller",
+    tagline: "The sequel we're still writing together.",
+    synopsis:
+      "An eccentric and misunderstood new student at a strict Islamic boarding school (pesantren), where she becomes the relentless target of cruel hazing and physical abuse from her peers, particularly a group of bullies led by Obi, Dilla, and Siti. After enduring a particularly horrific act of torture—having her hand burned with a hot iron—a terrified Herlina attempts to escape the school grounds in the dead of night, only to be fatally struck by a passing car on the road outside.",
+    poster: "/images/movies/movie13.png",
+    episode: "ep5",
   }
   
 ];

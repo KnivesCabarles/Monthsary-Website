@@ -1,5 +1,3 @@
-// One love letter per episode. Add a new key here whenever you add a new
-// episode to episodes.ts — match the id exactly (e.g. "ep2").
 export const letters: Record<string, string> = {
   ep1: `My love,
 
@@ -32,9 +30,7 @@ Happy monthsary, love. Here's to so many more. 💙
 Forever choosing you,
 Knives`,
 
-  ep2: `
-
-Happy 2nd Monthsary, my love.
+  ep2: `Happy 2nd Monthsary, my love.
 
 “In a world full of choices, I’d still find my way back to you.”
 
@@ -59,7 +55,7 @@ I love you, and I’ll keep choosing you. Always.
 Still choosing you,
 Knives`,
 
-  ep3: ` Mahal ko,
+  ep3: `Mahal ko,
 
 Happy 3rd monthsary. Alam mo, kahit ilang beses ko nang isulat 'to sa isip ko bago ko talaga i-type, ang hirap pa rin i-summarize ng tatlong buwan sa ilang linya lang. Pero susubukan ko.
 
@@ -92,5 +88,28 @@ Kaya sa ika-apat na buwan natin, ito ang pangako ko: patuloy kitang mamahalin, a
 Mahal na mahal kita, ngayon at sa lahat ng mga susunod na monthsary natin. 🌷
 
 Nagmamahal,
-Knives`
+Knives`,
+
+  ep5: `Mahal ko,
+
+Para sa babaeng pinili kong ipaglaban,
+
+Mahal ko, gusto ko lang sabihin sa’yo ang mga bagay na baka hindi ko nasabi nang maayos noong mga panahong pinakakailangan mo silang marinig.
+
+Alam kong matindi ang naging away natin. Alam kong sa sobrang bigat ng lahat, umabot ka sa puntong naisip mong bumitaw na lang tayo. At hindi kita sinisisi doon. Kung ako ang nasa posisyon mo, baka naisip ko rin iyon. Ang masakit lang, ako ang dahilan kung bakit mo naramdaman na ganoon.
+
+Pero gusto kong malaman mo ito: mas pipiliin kong ayusin ang isang milyong problema kaysa mawala ka nang tuluyan. Hindi iyon pangako na basta lang sinabi para mapagaan ang loob mo. Iyon ang totoo sa puso ko. Kaya kong harapin ang mga away, ang mga pagkukulang ko, ang mga bagay na kailangan kong baguhin. Ang hindi ko kaya ay ang buhay na wala ka.
+
+Aaminin ko, naging busy ako. May mga pagkakataong mas natuon ang oras ko sa ibang bagay, at alam kong naramdaman mo iyon. Pero sana maintindihan mo na kahit gaano ako ka-busy, kahit minsan hindi nawala ang interes ko sa’yo. Hindi ka naging “isa lang sa mga priority.” Ikaw pa rin ang iniisip ko tuwing pagod ako, ang gusto kong makausap pagkatapos ng mahabang araw, at ang dahilan kung bakit gusto kong magpatuloy. Ang kulang lang ay ang paraan ko ng pagpapakita, at iyon ang pinagsusumikapan kong ayusin.
+
+Salamat kasi binigyan mo pa ako ng pagkakataon. Salamat kasi kahit nasaktan ka, nanatili ka pa ring handang makinig. Hindi ko iyon balewala, at hinding-hindi ko iyon sasayangin.
+
+Sapagkat sa mundo kung saan napakadaling mangako gamit ang boses, mas pinipili kong maging tahanan na yayakap sayo sa gitna ng katahimikan, kung saan ang tunay na pagmamahal ay hindi nasusukat sa haba ng mga linya, kundi sa lalim ng bawat sandaling pinipili kitang samahan, nang walang alinlangan, nang walang pagmamadali, at nang walang katapusan.
+
+Hindi ako perpekto, at hindi ko ipapangakong hindi na tayo ulit magkakaproblema. Pero ipinapangako kong sa bawat pagkakataon, ikaw ang pipiliin ko, at hindi ako susuko sa atin.
+
+Mahal na mahal kita. At kung kapos man ang mga salita ko, hayaan mong ang pananatili ko ang magpatunay nito sa’yo. 💜
+
+Nagmamahal,
+Knives`,
 };
